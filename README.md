@@ -1,2 +1,2 @@
 # good-books
-Created with CodeSandbox
+An app like goodreads made in react.js
